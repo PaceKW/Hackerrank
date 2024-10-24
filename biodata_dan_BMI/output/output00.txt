@@ -1,0 +1,5 @@
+Nama           : John Doe
+Umur           : 25 tahun
+Tinggi Badan   : 180 cm
+Berat Badan    : 75 kg
+BMI            : 23.15

@@ -1,0 +1,4 @@
+Nama          : Robert
+Jabatan       : CEO
+Tahun Masuk   : 1999
+Lama Kerja Per Hari : 3 jam

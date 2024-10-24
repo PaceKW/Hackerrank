@@ -1,0 +1,4 @@
+Nama          : Daniel
+Jabatan       : Staff
+Tahun Masuk   : 2021
+Lama Kerja Per Hari : 8 jam

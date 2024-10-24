@@ -1,0 +1,4 @@
+Nama          : David
+Jabatan       : Staff
+Tahun Masuk   : 2023
+Lama Kerja Per Hari : 5 jam

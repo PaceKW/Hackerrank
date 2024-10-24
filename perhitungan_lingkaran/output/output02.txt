@@ -1,0 +1,2 @@
+Luas Lingkaran: 19.625
+Keliling Lingkaran: 15.700001

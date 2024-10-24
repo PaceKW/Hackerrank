@@ -1,0 +1,4 @@
+Nama          : Michael
+Jabatan       : Staff
+Tahun Masuk   : 2020
+Lama Kerja Per Hari : 1 jam

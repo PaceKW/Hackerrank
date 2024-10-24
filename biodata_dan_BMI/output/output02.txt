@@ -1,0 +1,5 @@
+Nama           : Alice Johnson
+Umur           : 22 tahun
+Tinggi Badan   : 170 cm
+Berat Badan    : 55 kg
+BMI            : 19.03

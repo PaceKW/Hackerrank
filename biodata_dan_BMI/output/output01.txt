@@ -1,0 +1,5 @@
+Nama           : Jane Smith
+Umur           : 30 tahun
+Tinggi Badan   : 165 cm
+Berat Badan    : 60 kg
+BMI            : 22.04

@@ -1,0 +1,2 @@
+Luas Lingkaran: 0.785
+Keliling Lingkaran: 3.14

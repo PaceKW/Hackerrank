@@ -1,0 +1,4 @@
+Nama          : Emily
+Jabatan       : CEO
+Tahun Masuk   : 2018
+Lama Kerja Per Hari : 7 jam

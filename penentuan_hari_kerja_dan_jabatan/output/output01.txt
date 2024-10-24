@@ -1,0 +1,4 @@
+Nama          : Sarah
+Jabatan       : CEO
+Tahun Masuk   : 2019
+Lama Kerja Per Hari : 4 jam

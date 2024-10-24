@@ -1,0 +1,5 @@
+Nama           : Diana Prince
+Umur           : 40 tahun
+Tinggi Badan   : 155 cm
+Berat Badan    : 50 kg
+BMI            : 20.81

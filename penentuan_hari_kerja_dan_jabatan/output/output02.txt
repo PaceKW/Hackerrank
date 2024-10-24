@@ -1,0 +1,4 @@
+Nama          : John
+Jabatan       : Manager
+Tahun Masuk   : 2022
+Lama Kerja Per Hari : 7 jam

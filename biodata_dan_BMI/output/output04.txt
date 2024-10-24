@@ -1,0 +1,5 @@
+Nama           : Charlie Brown
+Umur           : 35 tahun
+Tinggi Badan   : 160 cm
+Berat Badan    : 70 kg
+BMI            : 27.34

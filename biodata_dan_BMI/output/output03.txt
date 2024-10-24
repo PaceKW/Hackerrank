@@ -1,0 +1,5 @@
+Nama           : Bob Smith
+Umur           : 28 tahun
+Tinggi Badan   : 175 cm
+Berat Badan    : 80 kg
+BMI            : 26.12

@@ -1,0 +1,4 @@
+Nama          : Laura
+Jabatan       : Manager
+Tahun Masuk   : 4021
+Lama Kerja Per Hari : 2 jam

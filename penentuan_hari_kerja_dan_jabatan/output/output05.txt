@@ -1,0 +1,4 @@
+Nama          : Jessica
+Jabatan       : Manager
+Tahun Masuk   : 2015
+Lama Kerja Per Hari : 5 jam
